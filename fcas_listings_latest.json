@@ -1,0 +1,912 @@
+{
+    "status": {
+        "timestamp": "2025-02-08T22:41:22.161Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 40,
+        "credit_count": 1,
+        "notice": null
+    },
+    "data": [
+        {
+            "id": 1027,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "slug": "ethereum",
+            "score": 969,
+            "grade": "S",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2010,
+            "name": "Cardano",
+            "symbol": "ADA",
+            "slug": "cardano",
+            "score": 966,
+            "grade": "S",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 4943,
+            "name": "Dai",
+            "symbol": "DAI",
+            "slug": "multi-collateral-dai",
+            "score": 949,
+            "grade": "S",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2308,
+            "name": "Single Collateral DAI ",
+            "symbol": "SAI",
+            "slug": "single-collateral-dai",
+            "score": 942,
+            "grade": "S",
+            "last_updated": "2019-11-29T00:00:00Z"
+        },
+        {
+            "id": 1975,
+            "name": "Chainlink",
+            "symbol": "LINK",
+            "slug": "chainlink",
+            "score": 930,
+            "grade": "S",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 7083,
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "slug": "uniswap",
+            "score": 925,
+            "grade": "S",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 4030,
+            "name": "Algorand",
+            "symbol": "ALGO",
+            "slug": "algorand",
+            "score": 919,
+            "grade": "S",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 6535,
+            "name": "NEAR Protocol",
+            "symbol": "NEAR",
+            "slug": "near-protocol",
+            "score": 915,
+            "grade": "S",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 4172,
+            "name": "Terra Classic",
+            "symbol": "LUNC",
+            "slug": "terra-luna",
+            "score": 903,
+            "grade": "S",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1966,
+            "name": "Decentraland",
+            "symbol": "MANA",
+            "slug": "decentraland",
+            "score": 899,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 512,
+            "name": "Stellar",
+            "symbol": "XLM",
+            "slug": "stellar",
+            "score": 898,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 6636,
+            "name": "Polkadot",
+            "symbol": "DOT",
+            "slug": "polkadot-new",
+            "score": 889,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1,
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "slug": "bitcoin",
+            "score": 881,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2586,
+            "name": "Synthetix",
+            "symbol": "SNX",
+            "slug": "synthetix",
+            "score": 881,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1958,
+            "name": "TRON",
+            "symbol": "TRX",
+            "slug": "tron",
+            "score": 878,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 7278,
+            "name": "Aave",
+            "symbol": "AAVE",
+            "slug": "aave",
+            "score": 869,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1518,
+            "name": "Maker",
+            "symbol": "MKR",
+            "slug": "maker",
+            "score": 866,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 328,
+            "name": "Monero",
+            "symbol": "XMR",
+            "slug": "monero",
+            "score": 864,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1765,
+            "name": "EOS",
+            "symbol": "EOS",
+            "slug": "eos",
+            "score": 859,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 5728,
+            "name": "Balancer",
+            "symbol": "BAL",
+            "slug": "balancer",
+            "score": 856,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 3513,
+            "name": "Fantom (Migrated to Sonic)",
+            "symbol": "FTM",
+            "slug": "fantom",
+            "score": 852,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 5864,
+            "name": "yearn.finance",
+            "symbol": "YFI",
+            "slug": "yearn-finance",
+            "score": 849,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 74,
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "slug": "dogecoin",
+            "score": 849,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1659,
+            "name": "Gnosis",
+            "symbol": "GNO",
+            "slug": "gnosis-gno",
+            "score": 845,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 5692,
+            "name": "Compound",
+            "symbol": "COMP",
+            "slug": "compound",
+            "score": 844,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1839,
+            "name": "BNB",
+            "symbol": "BNB",
+            "slug": "bnb",
+            "score": 843,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1376,
+            "name": "Neo",
+            "symbol": "NEO",
+            "slug": "neo",
+            "score": 842,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1698,
+            "name": "Horizen",
+            "symbol": "ZEN",
+            "slug": "horizen",
+            "score": 841,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 5805,
+            "name": "Avalanche",
+            "symbol": "AVAX",
+            "slug": "avalanche",
+            "score": 838,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2469,
+            "name": "Zilliqa",
+            "symbol": "ZIL",
+            "slug": "zilliqa",
+            "score": 834,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1896,
+            "name": "0x Protocol",
+            "symbol": "ZRX",
+            "slug": "0x",
+            "score": 831,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1831,
+            "name": "Bitcoin Cash",
+            "symbol": "BCH",
+            "slug": "bitcoin-cash",
+            "score": 829,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2777,
+            "name": "IoTeX",
+            "symbol": "IOTX",
+            "slug": "iotex",
+            "score": 819,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1437,
+            "name": "Zcash",
+            "symbol": "ZEC",
+            "slug": "zcash",
+            "score": 818,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1104,
+            "name": "Augur",
+            "symbol": "REP",
+            "slug": "augur",
+            "score": 811,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1321,
+            "name": "Ethereum Classic",
+            "symbol": "ETC",
+            "slug": "ethereum-classic",
+            "score": 807,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1785,
+            "name": "Gas",
+            "symbol": "GAS",
+            "slug": "gas",
+            "score": 799,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 3408,
+            "name": "USDC",
+            "symbol": "USDC",
+            "slug": "usd-coin",
+            "score": 792,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 3794,
+            "name": "Cosmos",
+            "symbol": "ATOM",
+            "slug": "cosmos",
+            "score": 790,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1697,
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "slug": "basic-attention-token",
+            "score": 790,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1298,
+            "name": "LBRY Credits",
+            "symbol": "LBC",
+            "slug": "library-credits",
+            "score": 789,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 6892,
+            "name": "MultiversX",
+            "symbol": "EGLD",
+            "slug": "multiversx-egld",
+            "score": 784,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 825,
+            "name": "Tether USDt",
+            "symbol": "USDT",
+            "slug": "tether",
+            "score": 780,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 3077,
+            "name": "VeChain",
+            "symbol": "VET",
+            "slug": "vechain",
+            "score": 775,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1727,
+            "name": "Bancor",
+            "symbol": "BNT",
+            "slug": "bancor",
+            "score": 773,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1759,
+            "name": "Status",
+            "symbol": "SNT",
+            "slug": "status",
+            "score": 768,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1772,
+            "name": "Storj",
+            "symbol": "STORJ",
+            "slug": "storj",
+            "score": 768,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2496,
+            "name": "Polymath",
+            "symbol": "POLY",
+            "slug": "polymath-network",
+            "score": 768,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1934,
+            "name": "Loopring",
+            "symbol": "LRC",
+            "slug": "loopring",
+            "score": 768,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1808,
+            "name": "OMG Network",
+            "symbol": "OMG",
+            "slug": "omg",
+            "score": 764,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2011,
+            "name": "Tezos",
+            "symbol": "XTZ",
+            "slug": "tezos",
+            "score": 764,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2563,
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "slug": "trueusd",
+            "score": 763,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 4847,
+            "name": "Stacks",
+            "symbol": "STX",
+            "slug": "stacks",
+            "score": 760,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1274,
+            "name": "Waves",
+            "symbol": "WAVES",
+            "slug": "waves",
+            "score": 757,
+            "grade": "A",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1168,
+            "name": "Decred",
+            "symbol": "DCR",
+            "slug": "decred",
+            "score": 746,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2,
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "slug": "litecoin",
+            "score": 745,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1993,
+            "name": "Kin",
+            "symbol": "KIN",
+            "slug": "kin",
+            "score": 745,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 52,
+            "name": "XRP",
+            "symbol": "XRP",
+            "slug": "xrp",
+            "score": 743,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1586,
+            "name": "Ark",
+            "symbol": "ARK",
+            "slug": "ark",
+            "score": 742,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1521,
+            "name": "Komodo",
+            "symbol": "KMD",
+            "slug": "komodo",
+            "score": 733,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2765,
+            "name": "XYO",
+            "symbol": "XYO",
+            "slug": "xyo",
+            "score": 727,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1637,
+            "name": "iExec RLC",
+            "symbol": "RLC",
+            "slug": "rlc",
+            "score": 726,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 7857,
+            "name": "Mirror Protocol",
+            "symbol": "MIR",
+            "slug": "mirror-protocol",
+            "score": 723,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 131,
+            "name": "Dash",
+            "symbol": "DASH",
+            "slug": "dash",
+            "score": 719,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2548,
+            "name": "POA Network",
+            "symbol": "POA",
+            "slug": "poa",
+            "score": 718,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1042,
+            "name": "Siacoin",
+            "symbol": "SC",
+            "slug": "siacoin",
+            "score": 708,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1214,
+            "name": "Lisk",
+            "symbol": "LSK",
+            "slug": "lisk",
+            "score": 706,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2492,
+            "name": "Elastos",
+            "symbol": "ELA",
+            "slug": "elastos",
+            "score": 704,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1567,
+            "name": "Nano",
+            "symbol": "XNO",
+            "slug": "nano",
+            "score": 701,
+            "grade": "B",
+            "last_updated": "2021-05-18T00:00:00Z"
+        },
+        {
+            "id": 2130,
+            "name": "Enjin Coin",
+            "symbol": "ENJ",
+            "slug": "enjin-coin",
+            "score": 700,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 109,
+            "name": "DigiByte",
+            "symbol": "DGB",
+            "slug": "digibyte",
+            "score": 694,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1700,
+            "name": "\u00c6ternity",
+            "symbol": "AE",
+            "slug": "aeternity",
+            "score": 692,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 3635,
+            "name": "Cronos",
+            "symbol": "CRO",
+            "slug": "cronos",
+            "score": 685,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 873,
+            "name": "NEM",
+            "symbol": "XEM",
+            "slug": "nem",
+            "score": 682,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2566,
+            "name": "Ontology",
+            "symbol": "ONT",
+            "slug": "ontology",
+            "score": 680,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1343,
+            "name": "Stratis [Old]",
+            "symbol": "STRAX",
+            "slug": "stratis",
+            "score": 679,
+            "grade": "B",
+            "last_updated": "2021-01-07T00:00:00Z"
+        },
+        {
+            "id": 2143,
+            "name": "Streamr",
+            "symbol": "DATA",
+            "slug": "streamr",
+            "score": 672,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1982,
+            "name": "Kyber Network Crystal Legacy",
+            "symbol": "KNCL",
+            "slug": "kyber-network-crystal-legacy",
+            "score": 667,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1619,
+            "name": "Skycoin",
+            "symbol": "SKY",
+            "slug": "skycoin",
+            "score": 663,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 4846,
+            "name": "Kava",
+            "symbol": "KAVA",
+            "slug": "kava",
+            "score": 663,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1414,
+            "name": "Firo",
+            "symbol": "FIRO",
+            "slug": "firo",
+            "score": 659,
+            "grade": "B",
+            "last_updated": "2021-01-12T00:00:00Z"
+        },
+        {
+            "id": 3330,
+            "name": "Pax Dollar",
+            "symbol": "USDP",
+            "slug": "paxos-standard",
+            "score": 658,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1720,
+            "name": "IOTA",
+            "symbol": "IOTA",
+            "slug": "iota",
+            "score": 657,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2682,
+            "name": "Holo",
+            "symbol": "HOT",
+            "slug": "holo",
+            "score": 657,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 3835,
+            "name": "Orbs",
+            "symbol": "ORBS",
+            "slug": "orbs",
+            "score": 656,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1684,
+            "name": "Qtum",
+            "symbol": "QTUM",
+            "slug": "qtum",
+            "score": 651,
+            "grade": "B",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1680,
+            "name": "Aragon",
+            "symbol": "ANT",
+            "slug": "aragon",
+            "score": 646,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1455,
+            "name": "Golem",
+            "symbol": "GLM",
+            "slug": "golem-network-tokens",
+            "score": 644,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 1230,
+            "name": "Steem",
+            "symbol": "STEEM",
+            "slug": "steem",
+            "score": 643,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 463,
+            "name": "BitShares",
+            "symbol": "BTS",
+            "slug": "bitshares",
+            "score": 633,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2300,
+            "name": "WAX",
+            "symbol": "WAXP",
+            "slug": "wax",
+            "score": 626,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 3063,
+            "name": "Vitae",
+            "symbol": "VITAE",
+            "slug": "vitae",
+            "score": 625,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2467,
+            "name": "OriginTrail",
+            "symbol": "TRAC",
+            "slug": "origintrail",
+            "score": 624,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 3306,
+            "name": "Gemini Dollar",
+            "symbol": "GUSD",
+            "slug": "gemini-dollar",
+            "score": 623,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2071,
+            "name": "Request",
+            "symbol": "REQ",
+            "slug": "request",
+            "score": 623,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2058,
+            "name": "AirSwap",
+            "symbol": "AST",
+            "slug": "airswap",
+            "score": 623,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2957,
+            "name": "Olive",
+            "symbol": "OLE",
+            "slug": "olive",
+            "score": 618,
+            "grade": "C",
+            "last_updated": "2019-06-21T00:00:00Z"
+        },
+        {
+            "id": 99,
+            "name": "Vertcoin",
+            "symbol": "VTC",
+            "slug": "vertcoin",
+            "score": 616,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        },
+        {
+            "id": 2276,
+            "name": "Ignis",
+            "symbol": "IGNIS",
+            "slug": "ignis",
+            "score": 615,
+            "grade": "C",
+            "last_updated": "2019-12-19T00:00:00Z"
+        },
+        {
+            "id": 2299,
+            "name": "aelf",
+            "symbol": "ELF",
+            "slug": "aelf",
+            "score": 609,
+            "grade": "C",
+            "last_updated": "2021-09-05T00:00:00Z"
+        }
+    ]
+}
