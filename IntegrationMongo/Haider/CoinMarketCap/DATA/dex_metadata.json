@@ -1,0 +1,1352 @@
+{
+    "1293": {
+        "id": 1293,
+        "name": "QuickSwap",
+        "slug": "quickswap",
+        "date_launched": "2020-10-07T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1293.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://quickswap.exchange/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/QuickSwapDEX"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/QuickswapDEX"
+            ]
+        }
+    },
+    "1344": {
+        "id": 1344,
+        "name": "PancakeSwap v2 (BSC)",
+        "slug": "pancakeswap-v2",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1344.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://pancakeswap.finance/"
+            ],
+            "blog": [
+                "https://medium.com/pancakeswap"
+            ],
+            "chat": [
+                "https://t.me/PancakeSwap"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/pancakeswap"
+            ]
+        }
+    },
+    "1426": {
+        "id": 1426,
+        "name": "Orca",
+        "slug": "orca",
+        "date_launched": "2021-02-23T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1426.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://www.orca.so/"
+            ],
+            "blog": [
+                "http://orca-so.medium.com"
+            ],
+            "chat": [
+                "https://discord.com/invite/nSwGWn5KSG"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/orca_so"
+            ]
+        }
+    },
+    "4098": {
+        "id": 4098,
+        "name": "QuickSwap v3 (Polygon)",
+        "slug": "quickswap-v3",
+        "date_launched": "2020-10-07T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/4098.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://quickswap.exchange/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/QuickSwapDEX"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/QuickswapDEX"
+            ]
+        }
+    },
+    "5070": {
+        "id": 5070,
+        "name": "14:0x505751023083bfc7d2afb0588717dcc6182e54b2",
+        "slug": "14:0x505751023083bfc7d2afb0588717dcc6182e54b2",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/5070.png",
+        "status": "inactive",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                ""
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "5113": {
+        "id": 5113,
+        "name": "25:0xba12222222228d8ba445958a75a0704d566bf2c8",
+        "slug": "250xba12222222228d8ba445958a75a0704d566bf2c8",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/5113.png",
+        "status": "inactive",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                ""
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "6068": {
+        "id": 6068,
+        "name": "14:0xafd89d21bdb66d00817d4153e055830b1c2b3970",
+        "slug": "0xafd89d21bdb66d00817d4153e055830b1c2b3970",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6068.png",
+        "status": "inactive",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                ""
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "6434": {
+        "id": 6434,
+        "name": "16:whirlbmiicvdio4qvufm5kag6ct8vwpyzgff3uctycc",
+        "slug": "whirlbmiicvdio4qvufm5kag6ct8vwpyzgff3uctycc",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6434.png",
+        "status": "inactive",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                ""
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "6444": {
+        "id": 6444,
+        "name": "Uniswap v3 (BSC)",
+        "slug": "uniswap-bsc",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6444.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.uniswap.org/"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/"
+            ],
+            "chat": [
+                "https://discord.gg/XErMcTq"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "6707": {
+        "id": 6707,
+        "name": "PancakeSwap v3 (Ethereum)",
+        "slug": "pancakeswap-v3-eth",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6707.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://pancakeswap.finance/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/PancakeSwap"
+            ],
+            "fee": [
+                "https://www.notion.so/pancakeswap/V3-Tech-Doc-CMC-Mainnet-3b612e3610f647cb93ed16db89757cd1?pvs=4"
+            ],
+            "twitter": [
+                "https://x.com/PancakeSwap"
+            ]
+        }
+    },
+    "7126": {
+        "id": 7126,
+        "name": "PulseX",
+        "slug": "pulsex",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7126.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.pulsex.com/swap"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/PulseXcom"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/PulseXcom"
+            ]
+        }
+    },
+    "7342": {
+        "id": 7342,
+        "name": "PulseX v2",
+        "slug": "pulsex-v2",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7342.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://v2-app.pulsex.com/swap"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/PulseXcom"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/PulseXcom"
+            ]
+        }
+    },
+    "7520": {
+        "id": 7520,
+        "name": "SunSwap V3",
+        "slug": "47-tthjt8zajzjmhcesch7zwknp5buvzqys9x",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7520.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://sun.io/#/home"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "9782": {
+        "id": 9782,
+        "name": "Merchant Moe v2.2 (Mantle)",
+        "slug": "merchant-moe-mantle",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/9782.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://merchantmoe.com/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/merchantmoe_xyz"
+            ]
+        }
+    },
+    "9883": {
+        "id": 9883,
+        "name": "Meteora VP",
+        "slug": "meteora-vp",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/9883.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.meteora.ag/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "10023": {
+        "id": 10023,
+        "name": "Aerodrome SlipStream",
+        "slug": "aerodrome-slipstream",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/10023.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://aerodrome.finance/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://discord.gg/aerodrome"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/AerodromeFi"
+            ]
+        }
+    },
+    "10403": {
+        "id": 10403,
+        "name": "Raydium (CPMM)",
+        "slug": "raydium-cpmm",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/10403.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://raydium.io/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/RaydiumProtocol"
+            ]
+        }
+    },
+    "10557": {
+        "id": 10557,
+        "name": "Raydium (CLMM)",
+        "slug": "raydium-clmm",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/10557.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://raydium.io/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/RaydiumProtocol"
+            ]
+        }
+    },
+    "11545": {
+        "id": 11545,
+        "name": "Wagmi (Sonic)",
+        "slug": "wagmi-sonic",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/11545.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.wagmi.com/#/trade/swap"
+            ],
+            "blog": [
+                "https://discord.com/invite/realwagmi"
+            ],
+            "chat": [
+                "t.me/realwagmi"
+            ],
+            "fee": [
+                "https://docs.wagmi.com/wagmi/fees"
+            ],
+            "twitter": [
+                "https://x.com/wagmicom"
+            ]
+        }
+    },
+    "11805": {
+        "id": 11805,
+        "name": "Bex (Bera)",
+        "slug": "bex-bera",
+        "date_launched": "2025-02-05T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/11805.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://hub.berachain.com/pools/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://discord.gg/berachain"
+            ],
+            "fee": [
+                "n/a\r\n\r\nPools have individual trading fees associated based on the creation parameters"
+            ],
+            "twitter": [
+                "https://x.com/berachain"
+            ]
+        }
+    },
+    "1063": {
+        "id": 1063,
+        "name": "Curve (Ethereum)",
+        "slug": "curve-finance",
+        "date_launched": "2020-01-01T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1063.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://www.curve.fi/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/curvefi"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/CurveFinance"
+            ]
+        }
+    },
+    "1069": {
+        "id": 1069,
+        "name": "Uniswap v2",
+        "slug": "uniswap-v2",
+        "date_launched": "2018-11-01T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1069.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://uniswap.org/"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/"
+            ],
+            "chat": [
+                "https://discord.gg/XErMcTq"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "1342": {
+        "id": 1342,
+        "name": "Raydium",
+        "slug": "raydium",
+        "date_launched": "2021-02-20T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1342.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://raydium.io/"
+            ],
+            "blog": [
+                "https://raydium.medium.com/"
+            ],
+            "chat": [
+                "https://t.me/raydiumprotocol"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/RaydiumProtocol"
+            ]
+        }
+    },
+    "1348": {
+        "id": 1348,
+        "name": "Uniswap v3 (Ethereum)",
+        "slug": "uniswap-v3",
+        "date_launched": "2021-05-05T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1348.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.uniswap.org/#/swap"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/launch-uniswap-v3/"
+            ],
+            "chat": [
+                "https://discord.gg/FCfyBSbCU5"
+            ],
+            "fee": [
+                "https://uniswap.org/whitepaper-v3.pdf"
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "1404": {
+        "id": 1404,
+        "name": "Balancer v2 (Ethereum)",
+        "slug": "balancer-v2",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1404.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://balancer.fi/"
+            ],
+            "blog": [
+                "https://medium.com/balancer-protocol/"
+            ],
+            "chat": [
+                "https://discord.com/invite/ARJWaeF"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/Balancer"
+            ]
+        }
+    },
+    "1447": {
+        "id": 1447,
+        "name": "Osmosis",
+        "slug": "osmosis",
+        "date_launched": "2021-06-18T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1447.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.osmosis.zone/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/osmosis_chat"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/osmosiszone"
+            ]
+        }
+    },
+    "5114": {
+        "id": 5114,
+        "name": "51:0xba12222222228d8ba445958a75a0704d566bf2c8",
+        "slug": "510xba12222222228d8ba445958a75a0704d566bf2c8",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/5114.png",
+        "status": "inactive",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                ""
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "6407": {
+        "id": 6407,
+        "name": "THENA FUSION",
+        "slug": "thena-v2",
+        "date_launched": "2023-04-14T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6407.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://www.thena.fi/liquidity/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/Thena_Fi"
+            ],
+            "fee": [
+                "https://thena.gitbook.io/thena/the-liquidity-pools#fee-structure"
+            ],
+            "twitter": [
+                "https://x.com/ThenaFi_"
+            ]
+        }
+    },
+    "6706": {
+        "id": 6706,
+        "name": "PancakeSwap v3 (BSC)",
+        "slug": "pancakeswap-v3",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6706.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://pancakeswap.finance"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/pancakeswap"
+            ],
+            "fee": [
+                "https://www.notion.so/pancakeswap/V3-Tech-Doc-CMC-Mainnet-3b612e3610f647cb93ed16db89757cd1?pvs=4"
+            ],
+            "twitter": [
+                "https://x.com/PancakeSwap"
+            ]
+        }
+    },
+    "6800": {
+        "id": 6800,
+        "name": "LFJ v2.1 (Avalanche)",
+        "slug": "trader-joe-v2-1-avalanche",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6800.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://lfj.gg/avalanche/trade"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/LFJ_gg"
+            ]
+        }
+    },
+    "6993": {
+        "id": 6993,
+        "name": "Cetus",
+        "slug": "cetus",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6993.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.cetus.zone/swap/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://discord.com/invite/cetusprotocol"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/CetusProtocol"
+            ]
+        }
+    },
+    "7504": {
+        "id": 7504,
+        "name": "Uniswap v3 (Avalanche)",
+        "slug": "uniswap-v3-avalanche",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7504.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.uniswap.org/#/swap"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/launch-uniswap-v3/"
+            ],
+            "chat": [
+                "https://discord.gg/FCfyBSbCU5"
+            ],
+            "fee": [
+                "https://uniswap.org/whitepaper-v3.pdf"
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "7731": {
+        "id": 7731,
+        "name": "Agni Finance (Mantle)",
+        "slug": "agni-finance-mantle",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7731.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://agni.finance/"
+            ],
+            "blog": [
+                "https://medium.com/@Agnidex"
+            ],
+            "chat": [
+                "https://t.me/AgniDEXCommunity"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/Agnidex"
+            ]
+        }
+    },
+    "7791": {
+        "id": 7791,
+        "name": "Uniswap v3 (Base)",
+        "slug": "uniswap-v3-base",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7791.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.uniswap.org/"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/"
+            ],
+            "chat": [
+                "https://discord.gg/XErMcTq"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "7806": {
+        "id": 7806,
+        "name": "SushiSwap v3 (Base)",
+        "slug": "sushiswap-v3-base",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7806.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://www.sushi.com/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://discord.gg/NVPXN4e"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/sushiswap"
+            ]
+        }
+    },
+    "7930": {
+        "id": 7930,
+        "name": "PancakeSwap v3 (Arbitrum)",
+        "slug": "pancake-v3-arbitrum",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7930.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://pancakeswap.finance/"
+            ],
+            "blog": [
+                "https://medium.com/pancakeswap"
+            ],
+            "chat": [
+                "https://t.me/PancakeSwap"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/pancakeswap"
+            ]
+        }
+    },
+    "8181": {
+        "id": 8181,
+        "name": "Pancakeswap v3 (Base)",
+        "slug": "pancakeswapv3-base",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/8181.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://pancakeswap.finance/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/PancakeSwap"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/PancakeSwap"
+            ]
+        }
+    },
+    "8521": {
+        "id": 8521,
+        "name": "Aerodrome Finance",
+        "slug": "aerodrome-finance",
+        "date_launched": "2023-08-27T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/8521.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://aerodrome.finance/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "9882": {
+        "id": 9882,
+        "name": "Meteora VD",
+        "slug": "meteora-vd",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/9882.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.meteora.ag/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "11830": {
+        "id": 11830,
+        "name": "Uniswap v2(Unichain)",
+        "slug": "uniswap-v2-unichain",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/11830.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.uniswap.org/swap"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "1419": {
+        "id": 1419,
+        "name": "Uniswap v3 (Optimism)",
+        "slug": "uniswap-v3-optimism",
+        "date_launched": "2021-07-14T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1419.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.uniswap.org/"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/uniswap-optimism-alpha/"
+            ],
+            "chat": [
+                "https://discord.gg/FCfyBSbCU5"
+            ],
+            "fee": [
+                "https://help.uniswap.org/en/collections/3033942-layer-2"
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "1478": {
+        "id": 1478,
+        "name": "Uniswap v3 (Arbitrum)",
+        "slug": "uniswap-v3-arbitrum",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1478.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.uniswap.org/#/swap"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/launch-uniswap-v3/"
+            ],
+            "chat": [
+                "https://discord.gg/FCfyBSbCU5"
+            ],
+            "fee": [
+                "https://uniswap.org/whitepaper-v3.pdf"
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "1567": {
+        "id": 1567,
+        "name": "Uniswap v3 (Polygon)",
+        "slug": "uniswap-v3-polygon",
+        "date_launched": "2021-12-23T00:00:00.000Z",
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1567.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.uniswap.org/#/swap"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/launch-uniswap-v3/"
+            ],
+            "chat": [
+                "https://discord.gg/FCfyBSbCU5"
+            ],
+            "fee": [
+                "https://uniswap.org/whitepaper-v3.pdf"
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "5112": {
+        "id": 5112,
+        "name": "1:0xe64608e223433e8a03a1daaefd8cb638c14b552c(deprecated)",
+        "slug": "1-0xe64608e223433e8a03a1daaefd8cb638c14b552c",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/5112.png",
+        "status": "inactive",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                ""
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    },
+    "6713": {
+        "id": 6713,
+        "name": "Sushiswap v3 (Arbitrum)",
+        "slug": "sushiswap-v3-arbitrum",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/6713.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://www.sushi.com/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://discord.com/invite/NVPXN4e"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/SushiSwap"
+            ]
+        }
+    },
+    "7475": {
+        "id": 7475,
+        "name": "Camelot v3",
+        "slug": "camelot-v3",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/7475.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://camelot.exchange/#"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "https://t.me/camelotdex"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/CamelotDEX"
+            ]
+        }
+    },
+    "8989": {
+        "id": 8989,
+        "name": "Pharaoh Exchange",
+        "slug": "pharaoh-exchange",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/8989.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://pharaoh.exchange/"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                "http://discord.gg/pharaoh"
+            ],
+            "fee": [
+                "https://docs.pharaoh.exchange/pages/dex-functionalities"
+            ],
+            "twitter": [
+                "https://x.com/PharaohExchange"
+            ]
+        }
+    },
+    "9391": {
+        "id": 9391,
+        "name": "Uniswap v2 (Base)",
+        "slug": "uniswap-v2-base",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/9391.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://uniswap.org/"
+            ],
+            "blog": [
+                "https://uniswap.org/blog/"
+            ],
+            "chat": [
+                "https://discord.gg/XErMcTq"
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/Uniswap"
+            ]
+        }
+    },
+    "10348": {
+        "id": 10348,
+        "name": "LFJ v2.2 (Avalanche)",
+        "slug": "trader-joe-v2-2-avalanche",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/10348.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://lfj.gg/avalanche/trade"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/LFJ_gg"
+            ]
+        }
+    },
+    "11747": {
+        "id": 11747,
+        "name": "Kodiak v3",
+        "slug": "kodiak-v3",
+        "date_launched": null,
+        "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/11747.png",
+        "status": "active",
+        "description": null,
+        "notice": "",
+        "urls": {
+            "website": [
+                "https://app.kodiak.finance"
+            ],
+            "blog": [
+                ""
+            ],
+            "chat": [
+                ""
+            ],
+            "fee": [
+                ""
+            ],
+            "twitter": [
+                "https://x.com/"
+            ]
+        }
+    }
+}
