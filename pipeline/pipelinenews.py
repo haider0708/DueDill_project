@@ -292,6 +292,8 @@ df = pd.DataFrame(file1_data + file3_data, columns=columns)
 # dropping duplicates 
 df=df.drop_duplicates()
 
+df = df.dropna(subset=['content'])
+
 # replace all time values with today's date ( unified format)
 def convert_to_today(_):
     return datetime.now().strftime("%Y-%m-%d")  # Format as YYYY-MM-DD
@@ -299,6 +301,31 @@ def convert_to_today(_):
 # Apply the function to the "time" column
 df["time"] = df["time"].apply(convert_to_today)
 
+import hashlib
+def generate_hash(text):
+    return hashlib.md5(text.encode()).hexdigest() if text else None
+
+def clean_text(text):
+    if not isinstance(text, str):  # Ensure text is a string
+        return ""
+    text = re.sub(r'\s+', ' ', text)  # Remove extra whitespace
+    text = re.sub(r'[^\w\s.,!?]', '', text)  # Remove special characters except punctuation
+    return text.strip()
+
+def fix_encoding(text):
+    if not isinstance(text, str):  # Ensure text is a string
+        return ""
+    return text.encode('utf-8').decode('utf-8', 'ignore')
+
+df['cleaned_content'] = df['content'].apply(lambda x: fix_encoding(clean_text(x)))
+
+# Generate hash for deduplication
+df['hash'] = df['cleaned_content'].apply(generate_hash)
+
+# Remove duplicates based on hash
+df = df.drop_duplicates(subset=['hash'], keep='first')
+
+print("Processing and preparation phase is complete !")
 
 #final output in a csv file 
 df.to_csv('data.csv', index=False)
