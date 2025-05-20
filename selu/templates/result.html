@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Risk Assessment Result</title>
+    <link rel="stylesheet" href="static/styles.css"> <!-- Link to external stylesheet -->
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Risk Assessment Result</h1>
+        <div class="result-card">
+            <h2 class="coin-name">{{ symbol.upper() }} - Risk Assessment</h2>
+            <p class="risk-level">Risk Level: <span class="{{ risk_level.lower() }}">{{ risk_level }}</span></p>
+            <h3>Why this coin is considered {{ risk_level.lower() }} risk:</h3>
+            <div class="risk-reasons">
+                <p>{{ reason }}</p>
+            </div>
+            <a href="/" class="btn">Back to Home</a>
+        </div>
+    </div>
+</body>
+</html>
