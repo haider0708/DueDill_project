@@ -25,7 +25,7 @@ Welcome to the **Crypto Due Diligence API**, a robust and intelligent backend se
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/crypto-due-diligence.git
+   git https://github.com/haider0708/DueDill_project.git
    cd crypto-due-diligence
    ```
 
@@ -211,7 +211,7 @@ We welcome contributions! To contribute:
 
 ## 📜 License
 
-MIT License © 2025 [Your Name or Organization]
+MIT License © 2025 FIDUCIA
 
 ## 🧠 Built With
 
@@ -228,4 +228,4 @@ MIT License © 2025 [Your Name or Organization]
 
 This project aims to bring clarity and transparency to the digital asset space. Every crypto project has a story—our mission is to uncover and tell it responsibly.
 
-Made with 💻, 🧠, and ☕ by [Your Name]
+Made with 💻, 🧠, and ☕ by FIDUCIA
